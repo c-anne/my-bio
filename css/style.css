@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(172, 71, 255);
+    color: pink;
+    font-family: "Comic Sans MS", cursive;
+    line-height: 1.8;
+}
+
+h2{
+    background-color: powderblue;
+}
+
+
+.highlight{
+    background-color: rgb(229, 240, 82);
+}
+
+#itme{
+    text-align: center;
+    color: black;
+}
+
+div{
+    text-align: center;
+}
